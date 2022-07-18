@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Flappy Bird Game\bin\Debug\Flappy Bird Game.exe.config
+C:\Users\User\source\repos\Flappy Bird Game\bin\Debug\Flappy Bird Game.exe
+C:\Users\User\source\repos\Flappy Bird Game\bin\Debug\Flappy Bird Game.pdb
+C:\Users\User\source\repos\Flappy Bird Game\obj\Debug\Flappy Bird Game.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.Properties.Resources.resources
+C:\Users\User\source\repos\Flappy Bird Game\obj\Debug\Flappy Bird Game.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Flappy Bird Game\obj\Debug\Flappy Bird Game.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Flappy Bird Game\obj\Debug\Flappy Bird Game.exe
+C:\Users\User\source\repos\Flappy Bird Game\obj\Debug\Flappy Bird Game.pdb
+C:\Users\User\source\repos\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.Game_Screen.resources
+C:\Users\User\source\repos\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.StartMenu.resources
+C:\Users\User\source\repos\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.HelpScreen.resources
